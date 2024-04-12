@@ -1,0 +1,18 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: left;
+    background-image: url(Cooking.webp);
+    background-size: contain
+}
+
+
+div {
+    background-color: burlywood;
+    border: 10px solid brown;
+    margin-top: 150px;
+    margin-left: 400px;
+    margin-right:400px;
+    margin-bottom: 100px;
+    padding: 20px;
+}

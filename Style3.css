@@ -1,0 +1,31 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: left;
+    background-image: url(Cooking\ 3.jpg);
+    background-size: contain;
+}
+
+
+.container {
+    max-width: 800px;
+    margin-left: 300px;
+    margin-top: 100px;
+    display: grid;
+    grid-template-columns: repeat(3, 2fr);
+    grid-gap: 70px;
+    background-color: khaki;
+    text-align: center;
+}
+.sobremesa {
+    border: 1px solid #020202;
+    padding: 30px;
+    border-radius: 10px;
+}
+.sobremesa img {
+    max-width: 100%;
+    height: 1600px 600px;
+}
+.sobremesa h2 {
+    margin-top: 12;
+}

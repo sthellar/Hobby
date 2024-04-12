@@ -1,0 +1,21 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: left;
+    background-image: url(cooking\ 2.webp);
+    background-size: contain;
+}
+
+h2 {
+    color: brown;
+}
+
+div {
+    background-color:palegoldenrod;
+    border: 10px solid goldenrod;
+    margin-top: 150px;
+    margin-left: 400px;
+    margin-right:400px;
+    margin-bottom: 100px;
+    padding: 20px;
+}
